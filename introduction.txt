@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hi! My name is badr azami hassani. I’m currently learning Git and GitHub as part of a course project. I’m new to version control but eager to learn!
+
+I’m interested in economics ad gestion. This repository is the first step in my journey.
